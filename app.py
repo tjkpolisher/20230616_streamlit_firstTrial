@@ -20,7 +20,7 @@ st.video("https://youtu.be/yLDqGEngb0E")
 st.subheader("MVP 인터뷰")
 st.video("https://youtu.be/9OU_VzcO9Ag")
 st.subheader("풀 경기 영상 및 분석데스크")
-st.video("hhttps://youtu.be/3f2EyaXkfLg")
+st.video("https://youtu.be/3f2EyaXkfLg")
 st.image("https://cdn.pixabay.com/photo/2023/06/07/12/51/insect-8047159_1280.jpg") # 이미지 주소 입력 시 이미지 출력
 st.image("img/img.jpg") # 로컬 파일
 st.image(image="img/img.jpg")  # 키워드를 사용해서...
